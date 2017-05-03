@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">TK Radio</string>
+
+    <!-- EUROPE LIST -->
+    <string name="Europe_List_header1">UNITED KINGDOM</string>
+    <string name="Europe_List_header2">SPAIN</string>
+    <string name="Europe_List_header3">GERMANY</string>
+    <string name="Europe_List_header4">FRANCE</string>
+    <string name="Europe_List_header5">ITALY</string>
+    <!-- England LIST -->
+    <string name="Europe_List_child1_subject1">London - Capital FM</string>
+    <string name="Europe_List_child1_subject2">National - BBC Radio 3</string>
+    <string name="Europe_List_child1_subject3">National - BBC 5 Live</string>
+    <!-- Spain LIST -->
+    <string name="Europe_List_child2_subject1">Barcelona - CatClàssica</string>
+    <string name="Europe_List_child2_subject2">Madrid - Cadena Ser</string>
+    <string name="Europe_List_child2_subject3">Madrid - Cadena Cope</string>
+    <string name="Europe_List_child2_subject4">Barcelona - RNE Ràdio 4</string>
+    <!-- Germany LIST -->
+    <string name="Europe_List_child3_subject1">Hamburg - Alster Radio FM 106.8</string>
+    <string name="Europe_List_child3_subject2">Munich - B5 Aktuell</string>
+    <string name="Europe_List_child3_subject3">Cologne - WDR5</string>
+    <!-- France LIST -->
+    <string name="Europe_List_child4_subject1">Lyon - Jazz Radio</string>
+    <string name="Europe_List_child4_subject2">Paris - france info</string>
+    <string name="Europe_List_child4_subject3">Toulouse - Sud Radio</string>
+    <!-- Italy LIST -->
+    <string name="Europe_List_child5_subject1">Milan - Virgin Rock 80</string>
+    <string name="Europe_List_child5_subject2">Rome - RAI Radiouno</string>
+    <string name="Europe_List_child5_subject3">Milan - R101 Diretta</string>
+
+
+
+
+    <!-- Africa LIST -->
+    <string name="Africa_List_header1">ALGERIA</string>
+    <string name="Africa_List_header2">EGYPT</string>
+    <string name="Africa_List_header3">MOROCCO</string>
+    <string name="Africa_List_header4">SOUTH AFRICA</string>
+    <string name="Africa_List_header5">TUNISIA</string>
+    <!-- algeria LIST -->
+    <string name="Africa_List_child1_subject1">Inet - Radio Dzair</string>
+    <string name="Africa_List_child1_subject2">El Bahdja  - Chaabi FM</string>
+    <string name="Africa_List_child1_subject3">Inet - Radio Dzair</string>
+    <!-- egypt LIST -->
+    <string name="Africa_List_child2_subject1">Cairo - Al Sharq Al Awsat 89.5 FM</string>
+    <string name="Africa_List_child2_subject2">Cairo - Om Kalthoum old</string>
+    <string name="Africa_List_child2_subject3">Cairo - Halimiat</string>
+    <string name="Africa_List_child2_subject4">Cairo - Fairuz</string>
+    <string name="Africa_List_child2_subject5">Cairo - Nogoum 100.6 FM</string>
+    <string name="Africa_List_child2_subject6">Cairo - Alhaya FM</string>
+    <string name="Africa_List_child2_subject7">Cairo - Muhammad Jebril Radio</string>
+    <!-- morocco LIST -->
+    <string name="Africa_List_child3_subject1">Casablanca - Aswat</string>
+    <string name="Africa_List_child3_subject2">Rabat - Hit Radio FM</string>
+    <!-- sAfrica LIST -->
+    <string name="Africa_List_child4_subject1">Windhoek - 1FM Namibia</string>
+    <string name="Africa_List_child4_subject2">Johannesburg - Classic FM 102.7</string>
+    <!-- tunisia LIST -->
+    <string name="Africa_List_child5_subject1">Tunis - Radio Babnet</string>
+    <string name="Africa_List_child5_subject2">Tunis  - Radio Jeunes</string>
+    <string name="Africa_List_child5_subject3">Tunis  - Cap FM</string>
+
+
+
+    <!-- ASIA LIST -->
+    <string name="Asia_List_header1">HONG KONG</string>
+    <string name="Asia_List_header2">INDIA</string>
+    <string name="Asia_List_header3">JAPAN</string>
+    <string name="Asia_List_header4">LEBANON</string>
+    <string name="Asia_List_header5">UNITED ARAB EMIRATES</string>
+    <!-- England LIST -->
+    <string name="Asia_List_child1_subject1">Hong Kong - Apple-FM</string>
+    <string name="Asia_List_child1_subject2">Hong Kong - GFM,ASIA HITZ</string>
+    <!-- England LIST -->
+    <string name="Asia_List_child2_subject1">New Delhi - Bollywood Radio,Dj Gaurav</string>
+    <string name="Asia_List_child2_subject2">Mumbai - Radio Sindhi</string>
+    <!-- England LIST -->
+    <string name="Asia_List_child3_subject1">Tokio -  AnimeNfo Radio</string>
+    <string name="Asia_List_child3_subject2">Tokio - TOKYO FM</string>
+    <!-- England LIST -->
+    <string name="Asia_List_child4_subject1">Beirut - Radio Sawt El Ghad</string>
+    <string name="Asia_List_child4_subject2">Beirut -  Ashohra Radio</string>
+    <!-- England LIST -->
+    <string name="Asia_List_child5_subject1">Abu Dhabi - Abu Dhabi Classic FM</string>
+    <string name="Asia_List_child5_subject2">Abu Dhabi - Abu Dhabi FM</string>
+
+
+
+
+
+
+    <!-- SOUTH AMERICA LIST -->
+    <string name="SouthAmerica_List_header1">ARGENTINA</string>
+    <string name="SouthAmerica_List_header2">BRAZIL</string>
+    <string name="SouthAmerica_List_header3">CHILE</string>
+    <string name="SouthAmerica_List_header4">URUGUAY</string>
+
+    <!-- England LIST -->
+    <string name="SouthAmerica_List_child1_subject1">Buenos Aires - Amadeus 103.7</string>
+    <string name="SouthAmerica_List_child1_subject2">Villa General Belgrano - 101.9 FM Villa General Belgrano</string>
+    <string name="SouthAmerica_List_child1_subject3">Buenos Aires - Bahia Blanca LU2 840 AM</string>
+    <!-- England LIST -->
+    <string name="SouthAmerica_List_child2_subject1">Rio de Janeiro - Oi FM</string>
+    <string name="SouthAmerica_List_child2_subject2">Rio de Janeiro - Radio 80 FM The 80s decade</string>
+    <string name="SouthAmerica_List_child2_subject3">Rio Branco - R?dio Aldeia 90.3 FM</string>
+    <!-- England LIST -->
+    <string name="SouthAmerica_List_child3_subject1">Chillan - Alborada 107.7 FM </string>
+    <string name="SouthAmerica_List_child3_subject2">Antofagasta - Canal 95.1 FM</string>
+    <string name="SouthAmerica_List_child3_subject3">Santiago - El Conquistador 91.3 FM</string>
+    <!-- England LIST -->
+    <string name="SouthAmerica_List_child4_subject1">Montevideo - Azul FM 93.5</string>
+    <string name="SouthAmerica_List_child4_subject2">Montevideo - El Espectador 810 AM</string>
+
+
+
+
+
+
+    <!-- NORTH AMERICA LIST -->
+    <string name="NorthAmerica_List_header1">CANADA</string>
+    <string name="NorthAmerica_List_header2">MEXICO</string>
+    <string name="NorthAmerica_List_header3">UNITED STATES OF AMERICA</string>
+
+    <!-- England LIST -->
+    <string name="NorthAmerica_List_child1_subject1">Kingston - Ancient FM</string>
+    <string name="NorthAmerica_List_child1_subject2">Corner Brook - CFCB 570 AM</string>
+    <string name="NorthAmerica_List_child1_subject3">Montreal - CKLX-FM 91.9</string>
+    <!-- England LIST -->
+    <string name="NorthAmerica_List_child2_subject1">Mexiko City - Joya 93.7</string>
+    <!-- England LIST -->
+    <string name="NorthAmerica_List_child3_subject1">Newyork - WNYC 820 AM</string>
+    <string name="NorthAmerica_List_child3_subject2">Rochester - WBER 90.5 FM</string>
+
+
+
+
+    <string name="Selected_Continent_Africa">Selected Continent Is : Africa</string>
+    <string name="Selected_Continent_Asia">Selected Continent Is : Asia</string>
+    <string name="Selected_Continent_Europe">Selected Continent Is : Europe</string>
+    <string name="Selected_Continent_SouthAmerica">Selected Continent Is : South America</string>
+    <string name="Selected_Continent_NorthAmerica">Selected Continent Is : North America</string>
+
+    <string name="Selection">No Continent Selected</string>
+
+    <string name="Label">Continents</string>
+    <string name="Done">Done</string>
+
+    <string name="Progress">Streaming Radio Please Wait...</string>
+
+</resources>

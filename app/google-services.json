@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744642582269",
+    "firebase_url": "https://radio2-7cb98.firebaseio.com",
+    "project_id": "radio2-7cb98",
+    "storage_bucket": "radio2-7cb98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744642582269:android:ff00b508c3c653c0",
+        "android_client_info": {
+          "package_name": "com.upwork.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744642582269-cru1d3oi9ne1pp1rj6qd7bjnfsne4rjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upwork.radio",
+            "certificate_hash": "f54b9e23a22d4cb324b9d2ca5e665bf465756105"
+          }
+        },
+        {
+          "client_id": "744642582269-6dndqliq0d4kq9r3gotfo003u0nqcc2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82vu2xUTMLEuf8xzqO5NeBKxWexY8N0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744642582269-6dndqliq0d4kq9r3gotfo003u0nqcc2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
